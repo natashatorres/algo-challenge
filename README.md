@@ -1,1 +1,11 @@
 # algo-challenge
+vowelsCounter
+reverseString
+palindromeChecker
+fizzBuzz
+longestWord
+capSentence
+maxRecurring
+falsyBouncer
+mergeArrays
+chunkArray
